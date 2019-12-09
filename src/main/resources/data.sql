@@ -1,0 +1,1 @@
+INSERT INTO JOB_DETAILS (job_name,job_location,job_description) VALUES ('Manager','Chennai','Project Manager'),('Lead','Bangalore','Technical Lead'),('Analyst','Chennai','Programmer Analyst'),('Analyst','Bangalore','Programmer Analyst'),('Analyst','Chennai','Testing Analyst');
